@@ -10,5 +10,5 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 3. ![image](https://github.com/user-attachments/assets/f9a4b446-6646-49b1-a6df-4decaf14f6be)
 
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
-
+I think that this assignment was very straightforward and easy to follow. I had the most difficulty positioning the ball so that it was in the same spot across devices.
 
